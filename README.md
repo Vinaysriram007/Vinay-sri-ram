@@ -6,3 +6,4 @@ https://github.com/Vinaysriram007/Vinay-sri-ram/blob/main/Assignment4.ipynb
 https://github.com/Vinaysriram007/Vinay-sri-ram/blob/main/Assignment5.ipynb
 https://github.com/Vinaysriram007/Vinay-sri-ram/blob/main/Lab06-AIML.ipynb
 https://github.com/Vinaysriram007/Vinay-sri-ram/blob/main/Assignment7_AIML.ipynb
+https://github.com/Vinaysriram007/Vinay-sri-ram/blob/main/Lab-8%20AIML.ipynb
